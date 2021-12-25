@@ -18,17 +18,12 @@
 
  "status": "active",
 
-}
+ "name": "Twitter", 
 
-{
+ "url": "https://twitter.com/RalphToken"
 
-  "name": "Twitter", 
+ "name": "Telegram", 
 
-  "url": "https://twitter.com/RalphToken"
-
-{
-   "name": "Telegram", 
-
-   "url": "https://t.me/+tIzTnU7xhGs2NGRl"
+ "url": "https://t.me/+tIzTnU7xhGs2NGRl"
 
 }
